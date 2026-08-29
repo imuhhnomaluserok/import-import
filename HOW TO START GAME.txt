@@ -1,0 +1,3 @@
+py -3.12 game.py
+Copy this is
+あれをコピーしてね(py -3.12 game.py)

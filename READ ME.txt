@@ -1,0 +1,34 @@
+What the hell this is program...
+Needs python 3.12.1
+and you need import(pip) pygame.
+俺は何をしたかったんだろ
+なんでこんなのを作ったんだ
+あとpygameとpython 3.12.1を使ってね
+python風のCUIでimportをimportさせるゲームです。
+それだけ
+
+こーどをかきかえて
+C:\Users\arks2_dc4cden>
+から変えてもいいよ！(これは製作者のパスだよ)
+
+なんでこんなのにライセンスいるんだろう(LICENSEにあります)
+
+攻略法(AI直伝)
+
+画面が開いたら、キーボードで以下の順番どおりに入力して、毎回 Enterキー を押してください。
+🔑 クリアの手順① 
+まずはそのまま試して弾かれる（確認）
+import import
+👉 「'import' は、内部コマンドまたは外部コマンド…」 とエラーが出ます。
+② 現在の環境変数（PATH）を確認する
+path
+。👉 「PATH=C:\Windows\system32;...」 と、今の設定が表示されます。ここに隠しフォルダの core を追加する必要があります。
+③ 【重要】PATHを書き換えて、隠しフォルダにパスを通す
+set path=core
+👉 「[NOTICE] A hidden directory 'core' has been linked...」 と表示されれば、システムへのハッキング（仕込み）が成功です！
+④ もう一度、禁断のコマンドを打ち込む
+import import
+これで画面が真っ赤になり、「[SUCCESS] 'import' successfully imported!」 という隠されたクリアメッセージが出現します！
+
+だそうです。
+好きに改造して遊んでね！
